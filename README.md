@@ -1,3 +1,6 @@
+# Summary
+I started this project to be used for show and tell in my daughter career fair for the kids. It's use is very simple load with background image and users can interact and place foregrounds images. Please see supporting docs below if your new to react native. 
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
